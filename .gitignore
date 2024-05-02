@@ -65,3 +65,6 @@ samlssoconfigs/*
 .husky/*
 .vscode/*
 .copado/*
+
+# Profiles should not be deployed into China from ROW because they are inherently different type of orgs
+profiles/**
