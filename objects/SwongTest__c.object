@@ -165,8 +165,9 @@
     </fields>
     <fields>
         <fullName>Value__c</fullName>
+        <description>Added change in Dev1 by user 2</description>
         <externalId>false</externalId>
-        <label>Value</label>
+        <label>Opportunity Value</label>
         <precision>18</precision>
         <required>false</required>
         <scale>2</scale>
