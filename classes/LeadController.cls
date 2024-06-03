@@ -1,5 +1,8 @@
 public with sharing class LeadController {
 
+    /*
+        *@description This method is used to update Description 
+    */
     @AuraEnabled
     public static void updateLead() {
         List<Lead> leadList = new List<Lead>(
